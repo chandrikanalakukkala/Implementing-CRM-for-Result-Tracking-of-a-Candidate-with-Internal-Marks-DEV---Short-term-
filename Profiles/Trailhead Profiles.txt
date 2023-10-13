@@ -1,1 +1,27 @@
+  Name - N.CHANDRIKA
+  LEARNING TRACK - DEVELOPER
+  Email - chandrikanalakukkala@gmail.com
+  Trailhead Profile - https://www.salesforce.com/trailblazer/chandrikanalakukkala
+  Username (Developer org)-chandrikanalakukkala@gdcproject.com
+  Contact - 9502059285
 
+  Name - REDDYVARI MUNIKUMARI
+  LEARNING TRACK - DEVELOPER
+  Email - reddyvarimunikumari@gmail.com
+  Trailhead Profile - https://www.salesforce.com/trailblazer/munikumarireddyvari
+  Username(Developer Org) - reddyvarimunikumari@gdcproject.com
+  Contact - 6301994693
+
+  Name - BUKKE NANDINI
+  LEARNING TRACK - DEVELOPER  
+  Email - bukkenandini2022@gmail.com
+  Trailhead Profile - https://www.salesforce.com/trailblazer/nandinibukke
+  Username(Developer Org) - bukkenandini2022@gdcproject.com
+  Contact - 7799657427
+
+  Name - SYED AMREEN
+  LEARNING TRACK - DEVELOPER  
+  Email - Syedamreen004@gmail.com
+  Trailhead Profile - https://www.salesforce.com/trailblazer/amreenbanusyed
+  Username(Developer Org) - syedamreen004@gdcproject.com
+  Contact - 8008408011  
